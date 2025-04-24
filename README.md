@@ -15,7 +15,7 @@ K: API Key Required – A star (*) in this column signifies that the module requ
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/1b50e147d6337cb2177c55328e84795d9ecdf40e/Marketplace%20search%202.jpg)
 Then we create workspace called "nws" by using "workspces create".
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/ee12939966c3c7e579329c0a27e6f133fbd039e2/Workspace%20create.jpg)
-I used "profiller"module to gather and compile detailed information about a person or target entity from various data points collected across different modules. I want to information about a person that username is "alizade.909"
+I used "profiller"module to gather and compile detailed information about a person or target entity from various data points collected across different modules. I want to information about a person that username is "alizade.909".
 
 We use "modules load" command.
 
