@@ -26,5 +26,5 @@ We start to "run" our module and the websites being viewed that are registered w
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/66fd4cb158cafea538341cee5fb490c7e00c8c6f/Run%202.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/07a6b16050e72f7e8d258b03e3f2e4224dd0043c/Run%203.jpg)
 As a result you can see module find 7 websites that are registered  with the username "alizade.909"
-![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/07a6b16050e72f7e8d258b03e3f2e4224dd0043c/Run%203.jpg)
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/8b7587737d183571bc0e82bd0ae7ad0594003382/Result.jpg)
 
