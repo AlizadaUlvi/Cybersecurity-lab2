@@ -6,6 +6,7 @@ We install all modules by using "marketplace install all" command
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/63f715286b61c08a222d386a22b268b02a6762a8/Marketplace%20install%20all.jpg)
 Let's look all installed modules by using "marketplace search" command
 You can see the columns labeled D and K in the module listing typically refer to:
+
 D: Dependency – This column indicates whether the module has external dependencies that must be installed for the module to function. A star (*) in this column means the module has dependencies.
 
 K: API Key Required – A star (*) in this column signifies that the module requires an API key to operate. This is common for modules that query third-party services.
