@@ -18,5 +18,6 @@ Then we create workspace called "nws" by using "workspces create".
 I used "profiller"module to gather and compile detailed information about a person or target entity from various data points collected across different modules.
 
 We use "modules load" command.
+
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/1de998f9ea446f9af058a3552eae1ffd3376dc97/Modules%20load%20profiller.jpg)
 
