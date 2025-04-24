@@ -20,4 +20,6 @@ I used "profiller"module to gather and compile detailed information about a pers
 We use "modules load" command.
 
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/1de998f9ea446f9af058a3552eae1ffd3376dc97/Modules%20load%20profiller.jpg)
+We start to "run" our module.
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab2/blob/d0e3be54017b4d5d5cd7f7a9f15b1ff0461df465/Run%201.jpg)
 
